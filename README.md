@@ -1,9 +1,9 @@
-#Vagrant - or - how to code in your local computer
+# Vagrant - or - how to code in your local computer
 
-##Learning Objectives
+## Learning Objectives
 
-*What is a virtual machine
+* What is a virtual machine
 
-*What is Vagrant
+* What is Vagrant
 
-*Who wrote Vagrant
+* Who wrote Vagrant
